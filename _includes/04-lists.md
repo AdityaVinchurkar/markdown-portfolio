@@ -1,5 +1,5 @@
-a list of your favorite things:
-- Icat
-- IDOg
-- Idog
+- a list of your favorite things:
+* Icat
+* IDOg
+* Idog
 - 
