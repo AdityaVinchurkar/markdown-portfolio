@@ -1,3 +1,2 @@
 Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
-
-i think to code
+I think to play cricket in winters
